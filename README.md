@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/18bd436f-8996-40ae-baa7-d4d24bd8f7ae" /># Hi, I'm Afia 👋
+# Hi, I'm Afia 👋
 
 **Full-Stack Data Scientist** specialising in NLP, RAG pipelines, Financial fraud detection/Analysis, and MLOps.  
 Based in Berlin 🇩🇪 · 4+ years in FinTech & AI Consultancy · MSc Data Science @ Freie Universität Berlin
