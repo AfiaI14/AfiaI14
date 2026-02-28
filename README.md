@@ -9,7 +9,7 @@ Based in Berlin 🇩🇪 · 4+ years in FinTech & AI Consultancy · MSc Data Sci
 
 I build production-grade ML systems that solve real business problems, from real-time fraud detection pipelines processing high-volume FinTech transactions, to multi-agent LLM systems automating enterprise workflows. Recently completed my Master's thesis at **Fraunhofer FOKUS**, researching structured knowledge integration into LLM attention mechanisms.
 
-- 🔭 Thesis: Injecting structured knowledge into LLaMA transformer attention layers for improved reasoning
+- 🔭 Thesis: A STUDY OF REAL-WORLD STRUCTURAL KNOWLEDGE BASE INTEGRATION METHODS IN KBLAM AND THEIR IMPACT ON LLM RESPONSE PERFORMANCE
 - 💼 Data Scientist @ **Publicis Sapient** (Berlin)
 - 🏆 Core Value Member Award 2024 — Applied AI Innovation
 - 🌱 Currently exploring: Graph RAG, agentic systems, distributed LLM training
