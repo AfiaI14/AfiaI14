@@ -1,7 +1,7 @@
 # Hi, I'm Afia 👋
 
 **Full-Stack Data Scientist** specialising in NLP, RAG pipelines, Financial fraud detection/Analysis, and MLOps.  
-Based in Berlin 🇩🇪 · 4+ years in FinTech & AI Consultancy · MSc Data Science @ Freie Universität Berlin
+Based in Berlin 🇩🇪 · 5+ years in FinTech & AI Consultancy · MSc Data Science @ Freie Universität Berlin
 
 ---
 
